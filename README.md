@@ -4,7 +4,7 @@ I'm Sobambo Olusola a Full Stack Web Developer. I Spend most of time coding outs
 
 :mailbox: Reach out to me !
 
-[![Twitter Badge](https://img.shields.io/badge/-@Millie_Wealthy-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Millie_Wealthy)](https://twitter.com/Millie_Wealthy) [![Linkedin Badge](https://img.shields.io/badge/-Olusola-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobambo-olusola/) [![Mail Badge](https://img.shields.io/badge/-@SobamboOlusola-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/don_mi11ie) [![Mail Badge](https://img.shields.io/badge/-Sobambo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Sobamboolusola1152@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Millie_Wealthy-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Millie_Wealthy)](https://twitter.com/Millie_Wealthy) [![Linkedin Badge](https://img.shields.io/badge/-Olusola-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobambo-olusola/) [![Mail Badge](https://img.shields.io/badge/-@don_mi11ie-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/don_mi11ie) [![Mail Badge](https://img.shields.io/badge/-Sobambo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Sobamboolusola1152@gmail.com)
 
 <!-- TODO: Add last video link -->
 
