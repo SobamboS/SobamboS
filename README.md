@@ -8,7 +8,7 @@ I'm Sobambo Olusola a Full Stack Web Developer. I Spend most of time coding outs
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently a trinee @Semicolon Africa
+- 🔭 I’m currently a trainee @Semicolon Africa
 - 🔭 Currently looking for internship or entry level job placement.
 - 🔭 Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
