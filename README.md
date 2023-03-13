@@ -26,29 +26,9 @@ I'm Sobambo Olusola a software engineer. I build projects with JAVA,PYTHON,JAVAS
 
 
 
-#### 1.1.1. Profile Visits 
+ Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SobamboS.SobamboS)
 
-<details>
 
-#### 1.1.2. What is Sobamboport.com?
-
-it's my personal portfolio for people to check out more about me and my works
-
-#### 1.1.3. Coding Stats
-
-<!--START_SECTION:waka-->
-```text 
-Java         15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-Python       5 hrs 41 mins   ███████████████    █▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Javascript   1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Database     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
-
-
-</details>
 
