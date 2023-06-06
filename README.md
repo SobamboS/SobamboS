@@ -9,7 +9,7 @@ I'm Sobambo Olusola a software engineer. I build projects with JAVA,JAVASCRIPT,S
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently a Backend Software Engineer @Mungin Technologies
-- 🔭 I’m ex trainee @Semicolon Africa
+- 🔭 I’m an ex trainee @Semicolon Africa
 - 🔭 Currently looking for internship or entry level job placement.
 - 🔭 Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
@@ -22,7 +22,10 @@ I'm Sobambo Olusola a software engineer. I build projects with JAVA,JAVASCRIPT,S
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Springboot Badge](https://img.shields.io/badge/-Springboot-61DBFB?style=for-the-badge&labelColor=green&logo=springboot&logoColor=61DBFB)](#)  
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=yellow&logo=python&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Java Badge](https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=white&logo=java&logoColor=e585ba)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=yellow&logo=python&logoColor=007acc)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=white&logo=java&logoColor=e585ba)](#)
 
 [![Sobambo Olusola github stats](https://github-readme-stats.vercel.app/api?username=SobamboS)](https://github.com/anuraghazra/github-readme-stats)
 
