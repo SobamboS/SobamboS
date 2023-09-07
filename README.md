@@ -8,13 +8,13 @@ I'm Sobambo Olusola a software engineer. I build projects with JAVA,JAVASCRIPT,S
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently a Backend Software Engineer @Mungin Technologies
+- 🔭 I’m currently a Backend Software Engineer @Compucode Limited
 - 🔭 I’m an ex trainee @Semicolon Africa
-- 🔭 Currently looking for internship or entry level job placement.
+- 🔭 Currently looking for entry level or junior level job placement.
 - 🔭 Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: Sobamboolusola1152@gmail.com.
-- 😄 Pronouns: Sobambo, Olusola, Don_Millie.
+- 😄 Nickname:Don_Millie.
 - ⚡ Fun fact: I play games (COD my username Don_Millie).
 
 #### 1.0.1. Top Technologies
